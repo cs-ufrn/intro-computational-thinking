@@ -10,5 +10,6 @@ for solving them using a sequence of well-defined steps.
 ## Experiences
 
 - Campus Party Natal (14/04/2018)
-    Presented by Vitor, Vinícius, Artur and Professor Leonardo, in the first edition of the Campus Party in Natal 
+
+    To be presented by Vitor, Vinícius, Artur and Professor Leonardo, in the first edition of the Campus Party in Natal 
     (Rio Grande do Norte, Brazil).
