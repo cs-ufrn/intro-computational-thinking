@@ -5,7 +5,10 @@ The aim is to present the task of programming not just as
 writing lines of code, but as a way of abstracting complex problems, through
 logic, criativity and Computer Science's fundamentals, 
 for solving them using a sequence of well-defined steps.
-
+Programming logic is first presented using online
+programming blocks tools, then a simple guessing game (check the `code/guess-range` folder)
+is written in Python for getting the audience familiar
+with basic Python constructions.
 
 ## Experiences
 
